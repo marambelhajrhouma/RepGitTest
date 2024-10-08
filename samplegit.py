@@ -1,2 +1,2 @@
-print("My first example for Test")
+print("My second example for Test")
  
